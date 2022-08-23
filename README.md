@@ -258,4 +258,4 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Authors
-* __Nicholas M Mwanza__ <[Nicky-muindi](https://github.com/Nicky-muindi>
+* __Kwabena Osei-Owusu__ <[Cobby-obieh](https://github.com/cobby-obieh)
